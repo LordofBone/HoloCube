@@ -1,4 +1,4 @@
-#credit to pi3d demos for majority of the code
+#credit to pi3d demos for majority of the code - view the license here for the original repo https://github.com/pi3d/pi3d_demos/blob/master/LICENSE
 #this has been edited by me to render the molecule as a 3D pyramid hologram
 
 #!/usr/bin/python
